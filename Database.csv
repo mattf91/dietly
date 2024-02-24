@@ -1,0 +1,774 @@
+food,color,calories,every,units
+aceto balsamico,yellow,10.0,1.0,tbsp
+adelmo,red,16.0,1.0,tsp
+agnello,red,159.0,100.0,g
+albicocca,yellow,28.0,1.0,unit
+albicocche,yellow,28.0,1.0,unit
+albume,yellow,38.0,1.0,unit
+amarene,yellow,42.0,100.0,g
+ananas,yellow,40.0,100.0,g
+anatra,red,159.0,100.0,g
+anguilla di allevamento,yellow,319.0,100.0,g
+anguilla di mare,yellow,237.0,100.0,g
+anguille di allevamento,yellow,319.0,100.0,g
+anguille di mare,yellow,237.0,100.0,g
+anguria,yellow,30.0,100.0,g
+apple,yellow,50.0,1.0,unit
+apples,yellow,50.0,1.0,unit
+apricot,yellow,28.0,1.0,unit
+apricots,yellow,28.0,1.0,unit
+arachidi,red,598.0,100.0,g
+aragosta,yellow,85.0,100.0,g
+arance,yellow,100.0,1.0,unit
+arance succo,yellow,33.0,100.0,g
+arancia,yellow,100.0,1.0,unit
+arancia succo,yellow,33.0,100.0,g
+aranciata,yellow,38.0,100.0,g
+aringa affumicata,yellow,194.0,100.0,g
+aringa marinata,yellow,199.0,100.0,g
+arsella,yellow,72.0,100.0,g
+arselle,yellow,72.0,100.0,g
+artichoke,green,22.0,100.0,g
+artichokes,green,22.0,100.0,g
+asparagi,green,29.0,100.0,g
+asparagus,green,29.0,100.0,g
+aubergine,green,18.0,100.0,g
+avocado,yellow,320.0,1.0,unit
+baccala,yellow,95.0,100.0,g
+baccalà,yellow,95.0,100.0,g
+bacon,red,274.0,100.0,g
+balsamic vinegard,yellow,10.0,1.0,tbsp
+banana,yellow,120.0,1.0,unit
+barbabietola,green,19.0,100.0,g
+barbabietola rossa,green,19.0,100.0,g
+barbabietole,green,19.0,100.0,g
+barbabietole rosse,green,19.0,100.0,g
+bass,yellow,82.0,100.0,g
+bastoncini di pesce,yellow,191.0,100.0,g
+bastoncini pesce,yellow,191.0,100.0,g
+beef,red,250.0,100.0,g
+beef burger,red,139.0,100.0,g
+beef heart,red,123.0,100.0,g
+beef kidney,yellow,118.0,100.0,g
+beef lung,red,75.0,100.0,g
+beef ribeye,red,140.0,100.0,g
+beef stock dice,red,13.0,1.0,unit
+beef tenderloin,red,127.0,100.0,g
+beef tripe,yellow,108.0,100.0,g
+beer,red,34.0,100.0,g
+beet,green,19.0,100.0,g
+beets,green,19.0,100.0,g
+belga,green,15.0,100.0,g
+belgian salad,green,15.0,100.0,g
+bell peppers,green,22.0,100.0,g
+bieta,green,17.0,100.0,g
+birra,red,34.0,100.0,g
+birra chiara,red,34.0,100.0,g
+biscotti integrali,green,39.0,1.0,unit
+black cherries,yellow,42.0,100.0,g
+black olives,red,235.0,100.0,g
+blackberries,yellow,36.0,100.0,g
+blackberry,yellow,36.0,100.0,g
+blonde beer,red,34.0,100.0,g
+bottarga,red,15.0,1.0,tsp
+bottariga,red,15.0,1.0,tsp
+brandy,red,230.0,100.0,g
+bread,yellow,265.0,100.0,g
+breadcrumbs,yellow,395.0,100.0,g
+breadsticks,yellow,431.0,100.0,g
+bream,yellow,94.0,100.0,g
+bream fish,yellow,94.0,100.0,g
+bresaola,yellow,151.0,100.0,g
+brie,red,319.0,100.0,g
+broccoli,green,27.0,100.0,g
+broccolo,green,27.0,100.0,g
+brusselles sprouts,green,37.0,100.0,g
+bruxxelles sprouts,green,37.0,100.0,g
+burro,red,758.0,100.0,g
+butter,red,758.0,100.0,g
+cachi,yellow,65.0,100.0,g
+caciocavallo,red,439.0,100.0,g
+caciotta mista,red,384.0,100.0,g
+caciottina fresca,red,263.0,100.0,g
+caciottina mista,red,384.0,100.0,g
+caffe,green,9.0,1.0,unit
+caffè,green,9.0,1.0,unit
+calamaro,yellow,68.0,100.0,g
+calf tenderloin,red,107.0,100.0,g
+camembert,red,297.0,100.0,g
+canned chicken,yellow,60.0,100.0,g
+canned chickpeas,yellow,111.0,100.0,g
+canned tuna,red,192.0,100.0,g
+capers,yellow,39.0,100.0,g
+cappuccino,yellow,120.0,1.0,unit
+capretto,red,122.0,100.0,g
+carciofi,green,22.0,100.0,g
+carciofo,green,22.0,100.0,g
+carota,yellow,35.0,100.0,g
+carote,yellow,35.0,100.0,g
+carpaccio di manzo,yellow,115.0,100.0,g
+carrot,yellow,35.0,100.0,g
+carrots,yellow,35.0,100.0,g
+castagne,yellow,165.0,100.0,g
+castagne fresche,yellow,165.0,100.0,g
+cauliflower,green,25.0,100.0,g
+cavallo,red,143.0,100.0,g
+caviale,yellow,255.0,100.0,g
+caviar,yellow,255.0,100.0,g
+cavoletti di brusselles,green,37.0,100.0,g
+cavoletti di bruxxelles,green,37.0,100.0,g
+cavolfiore,green,25.0,100.0,g
+cavoli di brusselles,green,37.0,100.0,g
+cavoli di bruxxelles,green,37.0,100.0,g
+cavolo cappuccio rosso,green,20.0,100.0,g
+cavolo cappuccio verde,green,19.0,100.0,g
+cavolo rosso,green,20.0,100.0,g
+cavolo verde,green,19.0,100.0,g
+ceci,yellow,105.0,100.0,g
+ceci in scatola,yellow,111.0,100.0,g
+ceci secchi,yellow,316.0,100.0,g
+cefalo,yellow,127.0,100.0,g
+celery,green,20.0,100.0,g
+cernia surgelata,yellow,88.0,100.0,g
+cetrioli,green,40.0,1.0,unit
+cetriolo,green,40.0,1.0,unit
+chard,green,17.0,100.0,g
+cheddar,red,381.0,100.0,g
+cheddar cheese,red,381.0,100.0,g
+cherries,yellow,38.0,100.0,g
+chestnut,yellow,165.0,100.0,g
+chestnuts,yellow,165.0,100.0,g
+chicken breast,yellow,100.0,100.0,g
+chicken egg,yellow,64.0,1.0,unit
+chicken ham,yellow,95.0,100.0,g
+chicken leg,red,115.0,100.0,g
+chicken turkey burger,red,132.0,100.0,g
+chicken turkey rolle,yellow,127.0,100.0,g
+chicken wurstel,yellow,214.0,100.0,g
+chicory,green,10.0,100.0,g
+chocolate icecream,red,173.0,100.0,g
+chocolate with hazelnuts,red,543.0,100.0,g
+cicoria,green,10.0,100.0,g
+ciliegie,yellow,38.0,100.0,g
+cinghiale cotto,yellow,128.0,100.0,g
+cioccolato,red,545.0,100.0,g
+cioccolato al latte,red,545.0,100.0,g
+cioccolato con nocciole,red,543.0,100.0,g
+cioccolato fondente,red,515.0,100.0,g
+cioccolato nocciole,red,543.0,100.0,g
+cipolla,green,44.0,1.0,unit
+cipolle,green,44.0,1.0,unit
+clam,yellow,72.0,100.0,g
+clams,yellow,72.0,100.0,g
+clementina,yellow,35.0,1.0,unit
+clementine,yellow,35.0,1.0,unit
+clementines,yellow,35.0,1.0,unit
+cocco,yellow,364.0,100.0,g
+cocco fresco,yellow,364.0,100.0,g
+cocomero,yellow,30.0,100.0,g
+coconut,yellow,364.0,100.0,g
+cod,yellow,95.0,100.0,g
+coffee,green,9.0,1.0,unit
+coffee icecream,red,245.0,100.0,g
+conchiglie,yellow,351.0,100.0,g
+conchiglie pasta,yellow,351.0,100.0,g
+coniglio,yellow,118.0,100.0,g
+cooked boar,yellow,128.0,100.0,g
+cooked chicken leg,red,206.0,100.0,g
+cooked ham,yellow,215.0,100.0,g
+cooked lentils,yellow,139.0,100.0,g
+coppa,red,398.0,100.0,g
+corn,yellow,118.0,100.0,g
+corn flour,yellow,362.0,100.0,g
+corn oil,red,45.0,1.0,tsp
+cornetto,yellow,197.0,1.0,unit
+cornetto integrale miele,yellow,191.0,1.0,unit
+cornetto vuoto,yellow,200.0,1.0,unit
+cornflakes,yellow,361.0,100.0,g
+costata di manzo,red,140.0,100.0,g
+cotoletta vegetale,green,99.0,1.0,unit
+courgette,green,11.0,100.0,g
+cozza,yellow,84.0,100.0,g
+cozze,yellow,84.0,100.0,g
+crabs,yellow,84.0,100.0,g
+crackers,yellow,428.0,100.0,g
+crackers integrali,green,99.0,1.0,unit
+crescenza,yellow,281.0,100.0,g
+crescenza cheese,yellow,281.0,100.0,g
+crescenza light,green,162.0,100.0,g
+croccole di pesce,yellow,202.0,100.0,g
+croissant,red,197.0,1.0,unit
+crostini,yellow,46.0,1.0,unit
+crostini integrali,green,34.0,1.0,unit
+cucumber,green,40.0,1.0,unit
+cucumbers,green,40.0,1.0,unit
+cuore bovino,red,123.0,100.0,g
+cuore di cavallo,red,146.0,100.0,g
+cuore di maiale,yellow,159.0,100.0,g
+cuore di manzo,red,123.0,100.0,g
+cuore di pecora,red,134.0,100.0,g
+cuore equino,red,146.0,100.0,g
+cuore ovino,red,134.0,100.0,g
+cuore suino,red,159.0,100.0,g
+cupettone,green,14.0,100.0,g
+cuppettone,green,14.0,100.0,g
+cuttlefish,yellow,72.0,100.0,g
+dark chocolate,red,515.0,100.0,g
+datteri secchi,yellow,253.0,100.0,g
+delmo,red,16.0,1.0,tsp
+dentice,yellow,101.0,100.0,g
+dentice fresco,yellow,101.0,100.0,g
+dentice surgelato,yellow,103.0,100.0,g
+dried beans,yellow,278.0,100.0,g
+dried chickpeas,yellow,316.0,100.0,g
+dried dates,yellow,253.0,100.0,g
+dried fava beans,green,310.0,100.0,g
+dried fig,yellow,256.0,100.0,g
+dried figs,yellow,256.0,100.0,g
+dried hazelnut,red,655.0,100.0,g
+dried hazelnuts,red,655.0,100.0,g
+dried lentils,yellow,291.0,100.0,g
+dried peas,green,286.0,100.0,g
+dried walnut,red,689.0,100.0,g
+dried walnuts,red,689.0,100.0,g
+dry hazelnut,red,655.0,100.0,g
+dry hazelnuts,red,655.0,100.0,g
+dry walnut,red,689.0,100.0,g
+dry walnuts,red,689.0,100.0,g
+duck,red,159.0,100.0,g
+egg,yellow,64.0,1.0,unit
+egg white,yellow,38.0,1.0,unit
+egg yolk,yellow,26.0,1.0,unit
+eggplant,green,18.0,100.0,g
+emmenthal,red,403.0,100.0,g
+emmenthal cheese,red,403.0,100.0,g
+fagioli freschi,yellow,133.0,100.0,g
+fagioli secchi,yellow,278.0,100.0,g
+fagiolini,green,18.0,100.0,g
+farm heel,yellow,319.0,100.0,g
+farm heels,yellow,319.0,100.0,g
+fat free yogurt,green,40.0,100.0,g
+fatless cooked ham,yellow,132.0,100.0,g
+fatless raw ham,yellow,159.0,100.0,g
+fava beans dried,green,310.0,100.0,g
+fava beans fresh,green,41.0,100.0,g
+fave fresche,green,41.0,100.0,g
+fave secche,green,310.0,100.0,g
+fennel,green,9.0,100.0,g
+fennels,green,9.0,100.0,g
+feta,yellow,250.0,100.0,g
+feta cheese,yellow,250.0,100.0,g
+fette biscottate,yellow,408.0,100.0,g
+fette biscottate integrali,green,34.0,1.0,slice
+fichi,yellow,47.0,100.0,g
+fichi di india,yellow,53.0,100.0,g
+fichi freschi,yellow,47.0,100.0,g
+fichi secchi,yellow,256.0,100.0,g
+fig,yellow,47.0,100.0,g
+figs,yellow,47.0,100.0,g
+filetto di maiale,yellow,143.0,100.0,g
+filetto di manzo,red,127.0,100.0,g
+filetto di vitello,red,107.0,100.0,g
+finocchi,green,9.0,100.0,g
+finocchio,green,9.0,100.0,g
+fiocchi di formaggio magro,green,115.0,100.0,g
+fior di latte,red,268.0,100.0,g
+fior di latte icecream,red,218.0,100.0,g
+fiori di zucca,green,12.0,100.0,g
+fish stick,yellow,191.0,100.0,g
+fish sticks,yellow,191.0,100.0,g
+fish stock,yellow,10.0,1.0,unit
+flour,yellow,340.0,100.0,g
+fontina,red,343.0,100.0,g
+fontina cheese,red,343.0,100.0,g
+formaggino,yellow,309.0,100.0,g
+formaggino light,green,239.0,100.0,g
+formaggio spalmabile,yellow,313.0,100.0,g
+formaggio spalmabile light,green,179.0,100.0,g
+fornaciari,red,16.0,1.0,tsp
+fragola,yellow,27.0,100.0,g
+fragole,yellow,27.0,100.0,g
+fresh beans,yellow,133.0,100.0,g
+fresh coconut,yellow,364.0,100.0,g
+fresh fava beans,green,41.0,100.0,g
+fresh mackerel,yellow,170.0,100.0,g
+fresh peas,green,52.0,100.0,g
+fresh red snapper,yellow,101.0,100.0,g
+fresh salmon,yellow,185.0,100.0,g
+fresh sole,yellow,83.0,100.0,g
+fresh tuna,yellow,159.0,100.0,g
+fresh walnut,red,582.0,100.0,g
+fresh walnuts,red,582.0,100.0,g
+frog,yellow,64.0,100.0,g
+frozen grouper,yellow,88.0,100.0,g
+frozen hake,yellow,75.0,100.0,g
+frozen red snapper,yellow,103.0,100.0,g
+frozen sole,yellow,81.0,100.0,g
+frozen spinaches,green,23.0,100.0,g
+funghi,green,28.0,100.0,g
+funghi porcini,green,26.0,100.0,g
+funghi prataioli,green,20.0,100.0,g
+funghi surgelati,green,30.0,100.0,g
+gamberi,yellow,71.0,100.0,g
+gelato al caffe,red,245.0,100.0,g
+gelato al caffè,red,245.0,100.0,g
+gelato al cioccolato,red,173.0,100.0,g
+gelato fior di latte,red,218.0,100.0,g
+gelato fiordilatte,red,218.0,100.0,g
+gelato stracciatella,red,196.0,100.0,g
+gnocchi,yellow,136.0,100.0,g
+goat kid,red,122.0,100.0,g
+gorgonzola,red,324.0,100.0,g
+gorgonzola cheese,red,324.0,100.0,g
+grana,red,406.0,100.0,g
+grape,yellow,61.0,100.0,g
+grapefruit,yellow,91.0,1.0,unit
+grapefruits,yellow,91.0,1.0,unit
+grappa,red,242.0,100.0,g
+green beans,green,18.0,100.0,g
+green cabbage,green,19.0,100.0,g
+green olives,red,142.0,100.0,g
+grissini,yellow,431.0,100.0,g
+grissini integrali,green,330.0,100.0,g
+grouper frozen,yellow,88.0,100.0,g
+groviera,red,389.0,100.0,g
+groviera cheese,red,389.0,100.0,g
+hazelnuts chocolate,red,543.0,100.0,g
+honey,yellow,16.0,1.0,tsp
+horse,red,143.0,100.0,g
+horse heart,red,146.0,100.0,g
+hot pepper,yellow,26.0,100.0,g
+hot peppers,yellow,26.0,100.0,g
+hungarian salame,red,405.0,100.0,g
+iceberg salad,green,14.0,100.0,g
+integral cookies,green,39.0,1.0,unit
+integral cous cous,green,347.0,100.0,g
+integral crackers,green,99.0,1.0,unit
+integral flour,green,330.0,100.0,g
+integral pasta,green,347.0,100.0,g
+integral rice,green,351.0,100.0,g
+involtini di pollo,yellow,117.0,100.0,g
+involtino di pollo,yellow,117.0,100.0,g
+jam,red,222.0,100.0,g
+jocca,green,115.0,100.0,g
+kaki,yellow,65.0,100.0,g
+kefir,yellow,66.0,100.0,g
+kiwi,yellow,44.0,1.0,unit
+lady finger,red,391.0,100.0,g
+lady finger cooky,red,391.0,100.0,g
+lady fingers,red,391.0,100.0,g
+lady fingers cookies,red,391.0,100.0,g
+lady fingers cooky,red,391.0,100.0,g
+lamb,red,159.0,100.0,g
+lamponi,yellow,34.0,100.0,g
+lard,red,891.0,100.0,g
+lardo,red,891.0,100.0,g
+latte,yellow,47.0,100.0,g
+latte intero,red,64.0,100.0,g
+latte parzialmente scremato,yellow,47.0,100.0,g
+latte scremato,green,34.0,100.0,g
+lattuga,green,19.0,100.0,g
+leek,green,29.0,100.0,g
+leeks,green,29.0,100.0,g
+lemon juice,yellow,50.0,100.0,g
+lemon tartlet,red,61.0,1.0,unit
+lenticchie cotte,yellow,139.0,100.0,g
+lenticchie secche,yellow,291.0,100.0,g
+lettuce,green,19.0,100.0,g
+light cheese slice,yellow,206.0,100.0,g
+light raw ham,yellow,180.0,100.0,g
+light soft cheese,green,179.0,100.0,g
+light spreadable cheese,green,179.0,100.0,g
+lobster,yellow,85.0,100.0,g
+lonza di maiale,yellow,106.0,100.0,g
+mackerel,yellow,170.0,100.0,g
+mackerel fresh,yellow,170.0,100.0,g
+mackerel in brine,yellow,177.0,100.0,g
+maionese,red,33.0,1.0,tsp
+mais,yellow,118.0,100.0,g
+mais dolce,yellow,98.0,100.0,g
+malted milk biscuits,red,44.0,1.0,unit
+mandaranci,yellow,53.0,1.0,unit
+mandarancio,yellow,53.0,1.0,unit
+mandarin orange,yellow,72.0,1.0,unit
+mandarin oranges,yellow,72.0,1.0,unit
+mandarini,yellow,72.0,1.0,unit
+mandarino,yellow,72.0,1.0,unit
+mango,yellow,53.0,100.0,g
+margarina vegetale,yellow,760.0,100.0,g
+margherita,red,271.0,100.0,g
+margherita pizza,red,271.0,100.0,g
+marinated herring,yellow,199.0,100.0,g
+marmelade,red,222.0,100.0,g
+marmellata,red,222.0,100.0,g
+mascarpone,red,455.0,100.0,g
+mascarpone cheese,red,455.0,100.0,g
+mayo,red,33.0,1.0,tsp
+mayo light,yellow,259.0,100.0,g
+mayonnaise,red,33.0,1.0,tsp
+medlar,yellow,28.0,100.0,g
+medlars,yellow,28.0,100.0,g
+mela,yellow,50.0,1.0,unit
+melagrana,yellow,63.0,100.0,g
+melagrane,yellow,63.0,100.0,g
+melanzana,green,18.0,100.0,g
+melanzane,green,18.0,100.0,g
+melon,yellow,30.0,100.0,g
+melone,yellow,30.0,100.0,g
+merluzzo,yellow,71.0,100.0,g
+merluzzo fresco,yellow,71.0,100.0,g
+merluzzo surgelato,yellow,71.0,100.0,g
+miele,yellow,16.0,1.0,tsp
+milk,yellow,47.0,100.0,g
+milk bread,yellow,295.0,100.0,g
+milk chocolate,red,545.0,100.0,g
+minestrone di legumi,yellow,85.0,100.0,g
+minestrone di verdure,green,35.0,100.0,g
+minestrone di verdure light,green,12.0,100.0,g
+minestrone legumi,yellow,85.0,100.0,g
+minestrone verdure,green,35.0,100.0,g
+mixed fruit juice,yellow,51.0,100.0,g
+mixed vegetables,green,72.0,100.0,g
+mora,yellow,36.0,100.0,g
+more,yellow,36.0,100.0,g
+mortadella,red,317.0,100.0,g
+mozzarella,red,253.0,100.0,g
+mozzarella cheese,red,253.0,100.0,g
+mozzarella di bufala,red,288.0,100.0,g
+mozzarella di vacca,red,253.0,100.0,g
+mozzarella light,yellow,164.0,100.0,g
+mozzarella vaccina,red,253.0,100.0,g
+muesli,yellow,364.0,100.0,g
+muggine,yellow,127.0,100.0,g
+mullet,yellow,127.0,100.0,g
+mushrooms,green,28.0,100.0,g
+mussels,yellow,84.0,100.0,g
+nasello surgelato,yellow,75.0,100.0,g
+nespola,yellow,28.0,100.0,g
+nespole,yellow,28.0,100.0,g
+nocciola secca,red,655.0,100.0,g
+nocciole secche,red,655.0,100.0,g
+noccioline,red,598.0,100.0,g
+noce,red,582.0,100.0,g
+noce fresca,red,582.0,100.0,g
+noce secca,red,689.0,100.0,g
+noci,red,582.0,100.0,g
+noci fresche,red,582.0,100.0,g
+noci pecan,red,705.0,100.0,g
+noci secche,red,689.0,100.0,g
+octopus,yellow,57.0,100.0,g
+oil,red,40.0,1.0,tsp
+oil bread,red,299.0,100.0,g
+olio,red,40.0,1.0,tsp
+olio archide,red,45.0,1.0,tsp
+olio di archide,red,45.0,1.0,tsp
+olio di girasole,red,45.0,1.0,tsp
+olio di mais,red,45.0,1.0,tsp
+olio di oliva,red,40.0,1.0,tsp
+olio extravergine,red,40.0,1.0,tsp
+olio extravergine di oliva,red,40.0,1.0,tsp
+olio girasole,red,45.0,1.0,tsp
+olio mais,red,45.0,1.0,tsp
+olive nere,red,235.0,100.0,g
+olive oil,red,40.0,1.0,tsp
+olive verdi,red,142.0,100.0,g
+onion,green,44.0,1.0,unit
+orange,yellow,100.0,1.0,unit
+orange juice,yellow,33.0,100.0,g
+orange soda,yellow,38.0,100.0,g
+oranges,yellow,100.0,1.0,unit
+orata,yellow,94.0,100.0,g
+ostrica,yellow,69.0,100.0,g
+ostriche,yellow,69.0,100.0,g
+oyster,yellow,69.0,100.0,g
+oysters,yellow,69.0,100.0,g
+pagello,yellow,101.0,100.0,g
+panadine di verdura,red,267.0,100.0,g
+pane,yellow,265.0,100.0,g
+papaia,yellow,28.0,100.0,g
+parmesan,red,387.0,100.0,g
+parmesan cheese,red,387.0,100.0,g
+parmigiano,red,387.0,100.0,g
+partially light soft cheese,yellow,222.0,100.0,g
+partially skimmed milk,yellow,47.0,100.0,g
+partially skimmed yogurt,yellow,43.0,100.0,g
+passata di pomodoro,green,33.0,100.0,g
+passiflora,yellow,36.0,100.0,g
+passion fruit,yellow,36.0,100.0,g
+pasta,yellow,351.0,100.0,g
+patata,yellow,85.0,100.0,g
+patate,yellow,84.0,100.0,g
+peach,yellow,47.0,1.0,unit
+peaches,yellow,47.0,1.0,unit
+peanut butter,red,42.0,1.0,tsp
+peanut oil,red,45.0,1.0,tsp
+peanuts,red,598.0,100.0,g
+pear,yellow,53.0,1.0,unit
+pears,yellow,53.0,1.0,unit
+peas,green,52.0,100.0,g
+peas fresh,green,52.0,100.0,g
+pecan nuts,red,705.0,100.0,g
+pecorino,red,392.0,100.0,g
+pecorino cheese,red,392.0,100.0,g
+pecorino romano,red,409.0,100.0,g
+pelati,green,25.0,100.0,g
+peperoncini piccanti,yellow,26.0,100.0,g
+peperoncino piccante,yellow,26.0,100.0,g
+peperoni,green,22.0,100.0,g
+pepper,green,35.0,1.0,unit
+pera,yellow,53.0,1.0,unit
+pere,yellow,53.0,1.0,unit
+persimmon,yellow,65.0,100.0,g
+persimmons,yellow,65.0,100.0,g
+pesca,yellow,47.0,1.0,unit
+pesche,yellow,47.0,1.0,unit
+pesto,red,250.0,100.0,g
+philadelphia light,yellow,148.0,100.0,g
+pig heart,red,159.0,100.0,g
+pig sausage,red,304.0,100.0,g
+pine nuts,red,595.0,100.0,g
+pineapple,yellow,40.0,100.0,g
+pinecone seeds,red,595.0,100.0,g
+pinoli,red,595.0,100.0,g
+piselli,green,52.0,100.0,g
+piselli freschi,green,52.0,100.0,g
+piselli secchi,green,286.0,100.0,g
+pistacchi,red,608.0,100.0,g
+pistachios,red,608.0,100.0,g
+pizza margherita,red,271.0,100.0,g
+plum,yellow,28.0,1.0,unit
+plums,yellow,28.0,1.0,unit
+polenta,yellow,181.0,100.0,g
+polmone bovino,red,75.0,100.0,g
+polmone di manzo,red,75.0,100.0,g
+polpo,yellow,57.0,100.0,g
+polpo cotto,yellow,90.0,100.0,g
+pomegranate,yellow,63.0,100.0,g
+pomegranates,yellow,63.0,100.0,g
+pomodori,green,19.0,100.0,g
+pomodoro,green,19.0,100.0,g
+pompelmi,yellow,91.0,1.0,unit
+pompelmo,yellow,91.0,1.0,unit
+pop corn,red,378.0,100.0,g
+porcini,green,26.0,100.0,g
+porri,green,29.0,100.0,g
+porro,green,29.0,100.0,g
+potato,yellow,85.0,100.0,g
+potatoes,yellow,84.0,100.0,g
+prataioli,green,20.0,100.0,g
+prickly pears,yellow,53.0,100.0,g
+prosciutto cotto,yellow,215.0,100.0,g
+prosciutto cotto senza grasso,yellow,132.0,100.0,g
+prosciutto crudo,yellow,224.0,100.0,g
+prosciutto crudo senza grasso,yellow,159.0,100.0,g
+prosciutto di pollo,yellow,93.0,100.0,g
+prugna,yellow,28.0,1.0,unit
+prugne,yellow,28.0,1.0,unit
+pumpkin,green,18.0,100.0,g
+pumpkin flowers,green,12.0,100.0,g
+quaglia,yellow,161.0,100.0,g
+quail,yellow,161.0,100.0,g
+rabbit,yellow,118.0,100.0,g
+radish,green,11.0,100.0,g
+radishes,green,11.0,100.0,g
+rana,yellow,64.0,100.0,g
+rana pescatrice,yellow,63.0,100.0,g
+rapa,green,18.0,100.0,g
+rape,green,18.0,100.0,g
+raspberries,yellow,34.0,100.0,g
+ravanelli,green,11.0,100.0,g
+ravanello,green,11.0,100.0,g
+raw ham,yellow,224.0,100.0,g
+raw spinaches,green,31.0,100.0,g
+razza,yellow,68.0,100.0,g
+red beet,green,19.0,100.0,g
+red beets,green,19.0,100.0,g
+red cabbage,green,20.0,100.0,g
+red snapper,yellow,101.0,100.0,g
+red snapper fresh,yellow,101.0,100.0,g
+red snapper frozen,yellow,103.0,100.0,g
+red wine,red,85.0,100.0,g
+rene bovino,yellow,118.0,100.0,g
+riccia,green,17.0,100.0,g
+rice flour,yellow,360.0,100.0,g
+ricotta,yellow,157.0,100.0,g
+ricotta bufala,yellow,212.0,100.0,g
+ricotta cheese,yellow,157.0,100.0,g
+ricotta di bufala,yellow,212.0,100.0,g
+ricotta di pecora,yellow,157.0,100.0,g
+ricotta di vacca,yellow,146.0,100.0,g
+ricotta light,green,103.0,100.0,g
+ricotta pecora,yellow,157.0,100.0,g
+ricotta vacca,yellow,146.0,100.0,g
+ricotta vaccina,yellow,146.0,100.0,g
+riso integrale,green,351.0,100.0,g
+robiola,yellow,338.0,100.0,g
+robiola cheese,yellow,338.0,100.0,g
+rocket,green,28.0,100.0,g
+roman pecorino,red,409.0,100.0,g
+roman pecorino cheese,red,409.0,100.0,g
+roman sheep cheese,red,409.0,100.0,g
+rombo,yellow,81.0,100.0,g
+rucola,green,28.0,100.0,g
+rughetta,green,28.0,100.0,g
+rusk,yellow,41.0,1.0,slice
+salame,red,392.0,100.0,g
+salame milano,red,392.0,100.0,g
+salame ungherese,red,405.0,100.0,g
+salmon,yellow,185.0,100.0,g
+salmon fresh,yellow,185.0,100.0,g
+salmone,yellow,185.0,100.0,g
+salmone affumicato,yellow,147.0,100.0,g
+salmone fresco,yellow,185.0,100.0,g
+salsa al tartufo,yellow,336.0,100.0,g
+salsa tartufo,yellow,336.0,100.0,g
+salsiccia di maiale,red,304.0,100.0,g
+salsiccia di suino,red,304.0,100.0,g
+sarda,yellow,129.0,100.0,g
+sarde,yellow,129.0,100.0,g
+sardin,yellow,129.0,100.0,g
+sardina,yellow,129.0,100.0,g
+sardine,yellow,129.0,100.0,g
+sardins,yellow,129.0,100.0,g
+savoiardi,red,391.0,100.0,g
+savoiardo,red,391.0,100.0,g
+scalogno,green,72.0,100.0,g
+scamorza,red,334.0,100.0,g
+scamorza cheese,red,334.0,100.0,g
+sea bass,yellow,82.0,100.0,g
+sea heel,yellow,237.0,100.0,g
+sea heels,yellow,237.0,100.0,g
+seabass,yellow,82.0,100.0,g
+sedano,green,20.0,100.0,g
+seppia,yellow,72.0,100.0,g
+seppie,yellow,72.0,100.0,g
+sgombro,yellow,170.0,100.0,g
+sgombro fresco,yellow,170.0,100.0,g
+sgombro in salamoia,yellow,177.0,100.0,g
+sheep cheese,red,392.0,100.0,g
+sheep heart,red,134.0,100.0,g
+shrimps,yellow,71.0,100.0,g
+skimmed milk,green,34.0,100.0,g
+smoked herring,yellow,194.0,100.0,g
+smoked salmon,yellow,147.0,100.0,g
+snail,yellow,67.0,100.0,g
+soaking stockfish,yellow,92.0,100.0,g
+soft cheese,yellow,313.0,100.0,g
+soft cheese light,green,179.0,100.0,g
+sogliola,yellow,83.0,100.0,g
+sogliola fresca,yellow,83.0,100.0,g
+sogliola surgelata,yellow,81.0,100.0,g
+sole,yellow,83.0,100.0,g
+sour cherries,yellow,42.0,100.0,g
+soy burger,green,161.0,100.0,g
+soy flour,yellow,446.0,100.0,g
+spaghetti integrale,green,347.0,100.0,g
+spaghetti integrali,green,347.0,100.0,g
+spatzle di spinaci,yellow,157,100,g
+speck,yellow,303.0,100.0,g
+spicy pepper,yellow,26.0,100.0,g
+spicy peppers,yellow,26.0,100.0,g
+spigola,yellow,82.0,100.0,g
+spinaches,green,31.0,100.0,g
+spinaci,green,31.0,100.0,g
+spinaci crudi,green,31.0,100.0,g
+spinaci surgelati,green,23.0,100.0,g
+spreadable cheese,yellow,313.0,100.0,g
+spreadable cheese light,green,179.0,100.0,g
+spritz,red,90.0,1.0,unit
+spumante,red,87.0,100.0,g
+squid,yellow,68.0,100.0,g
+stingray,yellow,68.0,100.0,g
+stingray fish,yellow,68.0,100.0,g
+stoccafisso ammollato,yellow,92.0,100.0,g
+stoccafisso ammollo,yellow,92.0,100.0,g
+stockfish soaking,yellow,92.0,100.0,g
+storione,yellow,145.0,100.0,g
+stracchino,red,300.0,100.0,g
+stracchino cheese,red,300.0,100.0,g
+stracchino light,yellow,171.0,100.0,g
+stracciatella icecream,red,196.0,100.0,g
+strawberries,yellow,27.0,100.0,g
+strawberry,yellow,27.0,100.0,g
+sturgeon,yellow,145.0,100.0,g
+succo di arance,yellow,33.0,100.0,g
+succo di arancia,yellow,33.0,100.0,g
+sugar,red,16.0,1.0,tsp
+sunflower oil,red,45.0,1.0,tsp
+sunflowers oil,red,45.0,1.0,tsp
+surimi,yellow,99.0,100.0,g
+susina,yellow,28.0,1.0,unit
+susine,yellow,28.0,1.0,unit
+sweet corn,yellow,98.0,100.0,g
+taccole,green,26.0,100.0,g
+tagliata di pollo cotto,yellow,109.0,100.0,g
+taleggio,red,315.0,100.0,g
+taleggio cheese,red,315.0,100.0,g
+tangerine,yellow,53.0,1.0,unit
+tangerines,yellow,53.0,1.0,unit
+tapioca,yellow,360.0,100.0,g
+tomato,green,19.0,100.0,g
+tonno,yellow,159.0,100.0,g
+tonno fresco,yellow,159.0,100.0,g
+tonno in acqua,yellow,94.0,100.0,g
+tonno in olio,red,192.0,100.0,g
+tonno in salamoia,yellow,103.0,100.0,g
+tonno in scatola,red,192.0,100.0,g
+tonno sotto olio,red,192.0,100.0,g
+tortellini,yellow,300.0,100.0,g
+trippa di bovino,yellow,108.0,100.0,g
+trota,yellow,86.0,100.0,g
+trout,yellow,86.0,100.0,g
+tuna,yellow,159.0,100.0,g
+tuna fresh,yellow,159.0,100.0,g
+tuna in brine,yellow,103.0,100.0,g
+tuna in oil,yellow,192.0,100.0,g
+tuorlo,yellow,26.0,1.0,unit
+turbot,yellow,81.0,100.0,g
+turbot fish,yellow,81.0,100.0,g
+turnip,green,18.0,100.0,g
+turnips,green,18.0,100.0,g
+uovo,yellow,64.0,1.0,unit
+uovo di gallina,yellow,64.0,1.0,unit
+uva,yellow,61.0,100.0,g
+vegan burger,green,197.0,100.0,g
+vegan wurstel,green,204.0,1.0,unit
+vegetable soup,yellow,35.0,100.0,g
+vegetal margarina,yellow,760.0,100.0,g
+vegetal stock,green,15.0,1.0,unit
+vino bianco,red,85.0,100.0,g
+vino rosso,red,85.0,100.0,g
+vongola,yellow,72.0,100.0,g
+vongole,yellow,72.0,100.0,g
+walnut,red,582.0,100.0,g
+walnuts,red,582.0,100.0,g
+watermelon,yellow,30.0,100.0,g
+whiskey,red,245.0,100.0,g
+whisky,red,245.0,100.0,g
+white flour,yellow,340.0,100.0,g
+white wine,red,82.0,100.0,g
+whole greek yogurt,red,115.0,100.0,g
+whole milk,red,64.0,100.0,g
+whole yogurt,red,66.0,100.0,g
+wholemeal,green,116.0,1.0,slice
+wholemeal bread,green,116.0,1.0,slice
+wholemeal bread crumbs,green,363.0,100.0,g
+wholemeal breadcrumbs,green,363.0,100.0,g
+wholemeal crumbled bread,green,363.0,100.0,g
+wholemeal grated bread,green,363.0,100.0,g
+wholemeal rice,green,337.0,100.0,g
+wholemeal rusk,green,34.0,1.0,slice
+wine,red,75.0,100.0,g
+wurstel,red,270.0,100.0,g
+yocca,yellow,115.0,100.0,g
+yocca light,green,70.0,100.0,g
+yogurt greco intero,red,115.0,100.0,g
+yogurt intero,red,66.0,100.0,g
+yogurt magro,green,40.0,100.0,g
+yogurt magro con frutta,yellow,73.0,100.0,g
+yogurt parzialmente scremato,yellow,43.0,100.0,g
+zucca,green,18.0,100.0,g
+zucchero,red,16.0,1.0,tsp
+zucchina,green,11.0,100.0,g
+zucchine,green,11.0,100.0,g
+zucchini,green,11.0,100.0,g
