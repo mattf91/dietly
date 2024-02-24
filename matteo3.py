@@ -1691,23 +1691,8 @@ def meals(top,top_red,top_yellow,top_green,red,yellow,green,core,today,user):
     left(top_red,top_yellow,top_green,core[usr_msk][0][4])
     return(top,top_red,top_yellow,top_green,red,yellow,green)
 
-"""
-#QUESTO SERVIREBBE SE DECIDESSI DI AGGIUNGERE UNA FUNZIONE PER LOGGARE IL CIBO SEGNATO QUI SOTTO. ANDREBBE TUTTO AL POSTO DI 'def simulation(core):'
-def simulation(today,arr,core,user):
+
     
-    if user+'_'+today+'.csv' not in arr:
-        top=float(core[usr_msk][0][0])
-        top_red=float(core[usr_msk][0][1])
-        top_yellow=float(core[usr_msk][0][2])
-        top_green=float(core[usr_msk][0][3])
-        red,yellow,green=0.0,0.0,0.0
-        df = pd.DataFrame({'top': [top], 'red_left': [top_red], 'yellow_left': [top_yellow], 'green_left': [top_green], 'red': [red], 'yellow': [yellow], 'green': [green], 'ingredients': ['-'], 'calories': [0], 'color':['-'], 'meal': ['-']})
-        df.to_csv(str(user)+'_'+str(today)+'.csv',index=False)
-    else:
-        df = pd.read_csv(str(user)+'_'+str(today)+'.csv',sep=",", header=None)
-        full_top, full_top_red, full_top_yellow, full_top_green, full_red, full_yellow, full_green, full_ingr, full_cal, full_color, full_meal= np.array(df[0][1:]).astype(float), np.array(df[1][1:]).astype(float), np.array(df[2][1:]).astype(float), np.array(df[3][1:]).astype(float), np.array(df[4][1:]).astype(float), np.array(df[5][1:]).astype(float), np.array(df[6][1:]).astype(float), np.array(df[7][1:]), np.array(df[8][1:]).astype(float), np.array(df[9][1:]), np.array(df[10][1:])
-        top, top_red, top_yellow, top_green, red, yellow, green=full_top[-1], full_top_red[-1], full_top_yellow[-1], full_top_green[-1], full_red[-1], full_yellow[-1], full_green[-1]
-    """
 def simulation(core,user):
     usr_msk=(core['user']==user)
     cc,temp_red,temp_yellow,temp_green = 1,0.0,0.0,0.0

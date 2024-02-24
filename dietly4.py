@@ -8,15 +8,6 @@ import pandas as pd
 from scipy.interpolate import UnivariateSpline
 from matteo3 import setup, left, plot, nw, wo, meals, check, check_setup, check_language, database_update, database_search, add_user_name, select_first_user, select_user,past_meals,simulation
 
-"""
-TO DO:
-- add comments to everything, so that you can understand;
-- create only one csv file for each user, instead of one per day;
-- Quando aggiungi un nuovo user, fai in modo che le calorie nel core siano valori interi;
-- Cerca di rendere piu precise le percentuali ed i calcoli in generale;
-"""
-
-
 
 arr = os.listdir('.')
 
